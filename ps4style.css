@@ -32,7 +32,8 @@
 
 .custom .trigger.right {
     float: right;
- 
+    background-position-x: 99px;
+
 }
 .custom .bumper{
     width: 99px;
