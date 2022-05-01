@@ -61,14 +61,14 @@
     position: absolute;
     left: 272px;
     top: 122px;
-.ds4 .meta {
+.custom .meta {
     width: 42px;
     height: 42px;
     position: absolute;
     left: 382px;
     bottom: 216px;
 }
-.ds4 .meta.pressed {
+.custom .meta.pressed {
     background: url(meta.png) no-repeat center;
 }
 .custom .arrows{
